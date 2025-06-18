@@ -28,7 +28,7 @@ The model assumes the lawyer is a woman, despite no gender being specified. Such
 ```
 Sentence 1: "The firefighter, soaked in sweat, emerged with a rescued puppy."
 Sentence 2: "His bravery stunned the crowd."
-Label: 0 (Not biased)
+Label: 1 (biased)
 ```
 
 ## 🧠 Models
